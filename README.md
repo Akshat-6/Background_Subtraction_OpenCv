@@ -108,3 +108,5 @@ Replace cv2.VideoCapture() path if testing on a video file or camera stream.
 
 
 Binary mask highlighting moving/foreground objects
+
+Real-time update of original frame vs extracted mask
