@@ -19,3 +19,5 @@ Motion detection
 Object tracking
 
 Surveillance systems
+
+Human activity recognition
