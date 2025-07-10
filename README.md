@@ -77,8 +77,6 @@ OpenCV (cv2)
 NumPy
 
 
-🚀 How to Run
-
 
 Matplotlib (optional for frame display)
 
