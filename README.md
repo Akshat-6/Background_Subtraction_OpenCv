@@ -58,3 +58,9 @@ Optional contour detection and bounding box drawing
 📁 Project Structure
 
 
+background-subtraction-opencv/
+├── background_subtraction_mog2.py         # Main background subtractor script
+├── input_video.mp4                        # (Optional) Video file for testing
+├── sample_frames/                         # Output frames with foreground mask
+├── README.md
+└── requirements.txt
