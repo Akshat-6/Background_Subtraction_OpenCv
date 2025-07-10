@@ -41,6 +41,10 @@ More accurate for dynamic backgrounds
 
 ✅ 3. Real-Time Video Feed Support
 
+Can be applied to:
 
+Video files (e.g., .mp4)
+
+Webcam streams (cv2.VideoCapture(0))
 
 
