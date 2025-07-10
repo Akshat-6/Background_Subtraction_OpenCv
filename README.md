@@ -123,3 +123,6 @@ CCTV surveillance
 Traffic monitoring
 
 Sports player tracking
+
+Gesture recognition
+
