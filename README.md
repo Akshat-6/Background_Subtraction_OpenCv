@@ -119,3 +119,5 @@ Optionally draw bounding boxes around detected motion
 
 
 CCTV surveillance
+
+Traffic monitoring
