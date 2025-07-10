@@ -95,3 +95,6 @@ pip install opencv-python numpy
 
 
 3.Run the script:
+
+
+python background_subtraction_mog2.py
