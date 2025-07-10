@@ -39,5 +39,8 @@ K-Nearest Neighbors based background model
 More accurate for dynamic backgrounds
 
 
+✅ 3. Real-Time Video Feed Support
+
+
 
 
