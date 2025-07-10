@@ -72,4 +72,6 @@ background-subtraction-opencv/
 
 Python
 
+OpenCV (cv2)
+
 
