@@ -142,3 +142,6 @@ Contour filtering to remove small irrelevant motion
 
 
 💡 Future Enhancements
+
+
+Add motion-based ROI extraction
