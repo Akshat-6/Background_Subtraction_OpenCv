@@ -28,3 +28,6 @@ Human activity recognition
 ✅ 1. Background Subtraction Using cv2.createBackgroundSubtractorMOG2()
 
 Gaussian Mixture-based Background/Foreground Segmentation
+
+Supports shadow detection and learning rate tuning
+
