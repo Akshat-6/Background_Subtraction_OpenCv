@@ -126,3 +126,5 @@ Sports player tracking
 
 Gesture recognition
 
+
+🧠 Additional Insights
