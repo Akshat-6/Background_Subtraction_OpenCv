@@ -134,3 +134,6 @@ MOG2 is more adaptive and supports shadow detection
 KNN performs better with moving backgrounds but is slower
 
 You can enhance performance using:
+
+Morphological operations to clean noise
+
