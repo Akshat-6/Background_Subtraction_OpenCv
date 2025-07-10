@@ -149,3 +149,7 @@ Add motion-based ROI extraction
 Save foreground frames for object classification
 
 Integrate with object detection models (YOLO, SSD, etc.)
+
+Add GUI toggle for switching between MOG2 and KNN
+
+
