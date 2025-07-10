@@ -145,3 +145,5 @@ Contour filtering to remove small irrelevant motion
 
 
 Add motion-based ROI extraction
+
+Save foreground frames for object classification
