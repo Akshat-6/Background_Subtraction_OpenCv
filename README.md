@@ -92,3 +92,6 @@ cd background-subtraction-opencv
 
 
 pip install opencv-python numpy
+
+
+3.Run the script:
