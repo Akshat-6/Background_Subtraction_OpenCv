@@ -84,3 +84,5 @@ Matplotlib (optional for frame display)
 1.Clone the repository:
 
 
+git clone https://github.com/yourusername/background-subtraction-opencv
+cd background-subtraction-opencv
