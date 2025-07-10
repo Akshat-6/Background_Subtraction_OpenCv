@@ -21,3 +21,5 @@ Object tracking
 Surveillance systems
 
 Human activity recognition
+
+📂 What’s Implemented
