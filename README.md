@@ -116,3 +116,6 @@ Optionally draw bounding boxes around detected motion
 
 
 🌟 Applications
+
+
+CCTV surveillance
