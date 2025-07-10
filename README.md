@@ -16,3 +16,4 @@ To extract the foreground (moving objects) from a static background using frame-
 
 Motion detection
 
+Object tracking
