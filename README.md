@@ -8,3 +8,4 @@ Implementation of background subtraction using OpenCV to detect motion and foreg
 This project implements background subtraction, a fundamental technique in computer vision used to detect moving objects or extract foreground elements from video streams and image sequences. 
  The implementation utilizes OpenCV’s built-in background subtraction models for dynamic and real-time applications.
 
+🎯 Objective
