@@ -48,3 +48,6 @@ Video files (e.g., .mp4)
 Webcam streams (cv2.VideoCapture(0))
 
 
+✅ 4. Foreground Mask Visualization
+
+
