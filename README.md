@@ -69,3 +69,7 @@ background-subtraction-opencv/
 
 
 💻 Technologies Used
+
+Python
+
+
