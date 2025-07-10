@@ -81,4 +81,6 @@ Matplotlib (optional for frame display)
 
 🚀 How to Run
 
+1.Clone the repository:
+
 
