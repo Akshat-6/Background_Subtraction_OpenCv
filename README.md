@@ -31,3 +31,7 @@ Gaussian Mixture-based Background/Foreground Segmentation
 
 Supports shadow detection and learning rate tuning
 
+
+✅ 2. Optional: cv2.createBackgroundSubtractorKNN()
+
+
