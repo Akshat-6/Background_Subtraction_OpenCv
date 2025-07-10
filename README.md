@@ -102,3 +102,6 @@ python background_subtraction_mog2.py
 
 Replace cv2.VideoCapture() path if testing on a video file or camera stream.
 
+
+
+📊 Sample Output
