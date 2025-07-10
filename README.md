@@ -114,3 +114,5 @@ Real-time update of original frame vs extracted mask
 Optionally draw bounding boxes around detected motion
 
 
+
+🌟 Applications
