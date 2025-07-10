@@ -91,3 +91,4 @@ cd background-subtraction-opencv
 2.Install dependencies:
 
 
+pip install opencv-python numpy
