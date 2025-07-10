@@ -12,3 +12,7 @@ This project implements background subtraction, a fundamental technique in compu
 
 
 To extract the foreground (moving objects) from a static background using frame-wise analysis and background modeling techniques. This is commonly used in:
+
+
+Motion detection
+
