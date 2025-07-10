@@ -9,3 +9,6 @@ This project implements background subtraction, a fundamental technique in compu
  The implementation utilizes OpenCV’s built-in background subtraction models for dynamic and real-time applications.
 
 🎯 Objective
+
+
+To extract the foreground (moving objects) from a static background using frame-wise analysis and background modeling techniques. This is commonly used in:
