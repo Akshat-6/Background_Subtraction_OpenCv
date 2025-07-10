@@ -137,3 +137,5 @@ You can enhance performance using:
 
 Morphological operations to clean noise
 
+Contour filtering to remove small irrelevant motion
+
