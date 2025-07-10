@@ -52,4 +52,6 @@ Webcam streams (cv2.VideoCapture(0))
 
 Binary mask showing moving objects
 
+Optional contour detection and bounding box drawing
+
 
