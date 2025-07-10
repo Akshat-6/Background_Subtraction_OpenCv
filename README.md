@@ -64,3 +64,8 @@ background-subtraction-opencv/
 ├── sample_frames/                         # Output frames with foreground mask
 ├── README.md
 └── requirements.txt
+
+
+
+
+💻 Technologies Used
