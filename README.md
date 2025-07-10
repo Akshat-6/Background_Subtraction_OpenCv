@@ -36,5 +36,8 @@ Supports shadow detection and learning rate tuning
 
 K-Nearest Neighbors based background model
 
+More accurate for dynamic backgrounds
+
+
 
 
