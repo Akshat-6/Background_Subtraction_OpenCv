@@ -22,4 +22,7 @@ Surveillance systems
 
 Human activity recognition
 
+
 📂 What’s Implemented
+
+✅ 1. Background Subtraction Using cv2.createBackgroundSubtractorMOG2()
