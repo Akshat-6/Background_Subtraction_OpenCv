@@ -55,3 +55,4 @@ Binary mask showing moving objects
 Optional contour detection and bounding box drawing
 
 
+📁 Project Structure
