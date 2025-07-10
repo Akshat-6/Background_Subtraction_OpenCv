@@ -50,4 +50,6 @@ Webcam streams (cv2.VideoCapture(0))
 
 ✅ 4. Foreground Mask Visualization
 
+Binary mask showing moving objects
+
 
