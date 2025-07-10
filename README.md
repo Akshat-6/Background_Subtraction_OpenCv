@@ -128,3 +128,5 @@ Gesture recognition
 
 
 🧠 Additional Insights
+
+MOG2 is more adaptive and supports shadow detection
