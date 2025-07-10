@@ -34,4 +34,7 @@ Supports shadow detection and learning rate tuning
 
 ✅ 2. Optional: cv2.createBackgroundSubtractorKNN()
 
+K-Nearest Neighbors based background model
+
+
 
